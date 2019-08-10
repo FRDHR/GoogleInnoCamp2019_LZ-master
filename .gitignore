@@ -1,0 +1,11 @@
+# model
+
+
+# image
+*.jpg
+*.png
+*.jpeg
+
+*.zip
+*.csv
+*.xml
